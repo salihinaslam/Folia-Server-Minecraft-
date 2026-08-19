@@ -1,0 +1,10 @@
+# Redownloadable server files (Folia fetches these automatically on start)
+libraries/
+cache/
+versions/
+
+# Runtime logs
+logs/
+
+# Runtime lock
+session.lock

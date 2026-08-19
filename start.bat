@@ -1,0 +1,1 @@
+java -Xms2000M -Xmx2000M -jar folia-1.21.8-6.jar
